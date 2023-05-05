@@ -84,7 +84,7 @@ footer p {
 
 }
 
-@media(min-width:480px) {
+@media(min-width:768px) {
     body {
         font-family: 'Source Sans Pro', sans-serif;
         margin: 0;
